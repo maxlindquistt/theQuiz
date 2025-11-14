@@ -1,0 +1,12 @@
+body {
+	background: #333;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	font-size: 1.5em;
+}
