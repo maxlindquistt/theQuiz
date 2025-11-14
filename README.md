@@ -11,22 +11,30 @@ This project served as an exercise in DOM manipulation, event handling and simpl
 - Nickname form and persistent high scores
 
 ## Installation
-Prerequisites: Node.js (for the development server) and npm.
+Prerequisites
 
-1. Clone this repository and change into the project folder:
+- Node.js (v14 or newer) and npm. You can verify installed versions with:
 
-	git clone <repo-url>
-	cd theQuiz
+```bash
+node -v
+npm -v
+```
 
-2. Install dependencies:
+Quick start (bash)
 
-	npm install
+```bash
+# clone the repo (replace <your-username> or use your preferred remote URL)
+git clone https://github.com/<your-username>/theQuiz.git
+cd theQuiz
 
-3. Start the development server (Vite):
+# install dependencies
+npm install
 
-	npm run dev
+# start the Vite dev server
+npm run dev
+```
 
-	After the server starts, open the URL it shows (commonly http://localhost:5173) in your browser.
+After the dev server starts, open the URL it prints (commonly http://localhost:5173) in your browser.
 
 ## Project structure (important files)
 - `src/index.html` — main HTML
