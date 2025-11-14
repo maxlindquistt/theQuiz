@@ -14,10 +14,9 @@
   "contributors": [
     "Johan Leitet <johan.leitet@lnu.se>",
     "Mats Loock <mats.loock@lnu.se>",
-    "// TODO: YOUR NAME <YOUR EMAIL>"
+    "Max Lindquist <max.lindquist312@gmail.com>"
   ],
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "@lnu/eslint-config": "^1.1.10",
     "vite": "^4.4.9"
