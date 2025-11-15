@@ -16,7 +16,7 @@ customElements.define('quiz-application',
    * Extends the HTMLElement
    */
   class extends HTMLElement {
-    nextUrl = process.env.INITIAL_URL
+    nextUrl = "https://courselab.lnu.se/quiz/question/1"
     #quizQuestion
     /**
      * Creates an instance of the custom element and attaches a shadow DOM.
