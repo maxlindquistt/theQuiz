@@ -45,6 +45,7 @@ template.innerHTML = `
         input[type="text"] {
             margin-bottom: 10px;
             margin-top: 10px;
+            font-size: 16px;
         }
 
         #quiz-question label {

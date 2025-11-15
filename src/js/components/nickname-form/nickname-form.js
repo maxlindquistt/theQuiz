@@ -21,6 +21,7 @@ template.innerHTML = `
         }
         input {
             margin-bottom: 10px;
+            font-size: 16px;
         }
         button {
             margin-top: 20px;
